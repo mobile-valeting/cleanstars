@@ -1,0 +1,8 @@
+
+{
+  "name": "Clean Stars | Luxury Mobile Detailing",
+  "description": "A premium mobile detailing service application featuring luxury interior cleaning, bespoke care, and convenient scheduling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
